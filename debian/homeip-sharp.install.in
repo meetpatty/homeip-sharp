@@ -1,0 +1,3 @@
+debian/tmp/@hildondesktoplibdir@/homeip-sharp.dll
+debian/tmp/@homedesktopentrydir@/homeip-sharp.desktop
+debian/tmp/usr/lib/homeip-sharp/*

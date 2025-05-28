@@ -1,0 +1,11 @@
+Source: homeip-sharp
+Section: user/accessories
+Priority: extra
+Maintainer: meetpatty <meetpatty@users.noreply.github.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: homeip-sharp
+Architecture: all
+Depends: hildon-desktop-mono-loader, mono-hildondesktop, mono-runtime, gtk-sharp2
+Description: HomeIP-Sharp is a CLI home hildon desktop applet which displays the current IP
