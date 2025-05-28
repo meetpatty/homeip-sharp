@@ -64,7 +64,6 @@ public static class AppSettings {
                 {
                     settingsXml = (AppSettingsXml)serializer.Deserialize(fs);
                 }
-                Console.WriteLine("Loaded Xml settings!");
             }
             catch (Exception ex)
             {
